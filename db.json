@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "status": false,
+      "id": 1
+    }
+  ],
+  "foods": [
+    {
+      "title": "foods2 ",
+      "ingredients": "Nothing",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "food 3",
+      "ingredients": "Nothing",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "asssssaaa",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "food 4",
+      "ingredients": "Nothing",
+      "timetocook": "3PM",
+      "images": "https://raw.githubusercontent.com/surhud004/Foodish/main/public/logo.ico",
+      "instructions": "asssssaaa",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "foods 4",
+      "ingredients": "",
+      "timetocook": "",
+      "images": "",
+      "instructions": "",
+      "status": false,
+      "id": 5
+    },
+    {
+      "ingredients": "Nothing",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "asssssaaa",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "food7",
+      "ingredients": "Nothing",
+      "timetocook": "",
+      "images": "",
+      "instructions": "",
+      "status": false,
+      "id": 7
+    },
+    {
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "asssssaaa",
+      "status": false,
+      "id": 8
+    },
+    {
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "food9",
+      "ingredients": "Nothing",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "asssssaaa",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "new food 1",
+      "ingredients": "Nothing",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "boil first",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "new food 2",
+      "ingredients": "Nothing",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "boil first",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "new food 4",
+      "ingredients": "Nothing",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "boil first",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "new food5 ",
+      "ingredients": "salt",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "asssssaaa",
+      "status": false,
+      "id": 14
+    },
+    {
+      "title": "new food 6",
+      "ingredients": "salt",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "boil first",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "food 11 ",
+      "ingredients": "Chappati",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "boil first",
+      "status": false,
+      "id": 16
+    },
+    {
+      "title": "food 12",
+      "status": false,
+      "id": 17
+    },
+    {
+      "title": "food 13",
+      "ingredients": "Chappati",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "boil first",
+      "status": false,
+      "id": 18
+    },
+    {
+      "title": "last food ",
+      "ingredients": "salad",
+      "timetocook": "3PM",
+      "images": "https://github.com/surhud004/Foodish/raw/main/public/logo.ico",
+      "instructions": "boil first",
+      "status": false,
+      "id": 19
+    }
+  ]
+}

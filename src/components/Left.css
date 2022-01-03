@@ -1,0 +1,57 @@
+.section{
+    width: 80%;
+    height:auto;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    margin-top:10px;
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.left-container{
+    display: inline-block;
+    width: 48%;
+}
+
+.left-container form{
+    padding: 30px;
+}
+form input{
+    margin: 2px auto;
+}
+
+
+.right-container{
+    display: inline-block;
+    border: 1px solid #ccc;
+    height: 200px;
+    overflow: scroll;
+    width: 48%;
+}
+
+.right-container table tr{
+    border: 1px solid #ccc;  
+   cursor: pointer;
+}
+.list{
+    border: 1px solid #ccc;
+    width: 80%;
+    height:auto;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+table{
+    padding: 50px;
+    /* border-radius: 15px; */
+}
+table thead{
+    padding-bottom: 50px;
+}
+table tr {
+    font-size: 20px;
+    letter-spacing:2px;
+}
+table tr td {
+    border-bottom: 2px solid #ccc;
+}
